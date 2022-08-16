@@ -1,0 +1,3 @@
+#Create a dictionary for storing students report which contains students marks in different subjects for five different students
+students = {1:{'Maths': 89,'Physics':78,'Chemistry':92,'English':88,'Computers':99},2:{'Maths': 78,'Physics':72,'Chemistry':67,'English':57,'Computers':66},3:{'Maths': 56,'Physics':65,'Chemistry':81,'English':77,'Computers':45},4:{'Maths': 87,'Physics':55,'Chemistry':55,'English':71,'Computers':78},5:{'Maths': 45,'Physics':63,'Chemistry':86,'English':66,'Computers':81}}
+print (students[1])
