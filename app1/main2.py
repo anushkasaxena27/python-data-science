@@ -28,3 +28,4 @@ with st.form ('Another Form'):
     likes = st.multiselect('Select what u like',['Maggi','Pizza','Burger','Biryani','Spinach','Pasta','Dry Fruits',"🍒"])
     checked = st.checkbox("Agree to our secret terms and conditions",value = True)
     submit = st.form_submit_button('Submit')
+ 
